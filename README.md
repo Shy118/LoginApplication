@@ -17,6 +17,6 @@ Upon Initilizaing, these dummy data are created in h2 embedded database (http://
 | 3       | 俊豪          | 李         | 員工        | USER     | 員工      |
 | 4       | 榮耀          | 陳         | 經理        | MANAGER  | 經理      |
 
-The login credential to h2 embedded database is:
-User Name: username
+The login credential to h2 embedded database is:\
+User Name: username\
 Password: password
