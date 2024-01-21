@@ -4,7 +4,7 @@ This Login Application is created with Spring Boot Maven 3.2.1 using Java 17, de
 
 In the project directory, you can run:
 
-LoginApplication.java to start the server, its URL is http://localhost:8080.
+LoginApplication.java to start the server, its URL is http://localhost:8080
 
 The Application expose a login validation API - http://localhost:8080/v1/login
 
